@@ -34,15 +34,9 @@
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_LOG_LEVEL" value="DEBUG" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.trigg.alarmclock" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214c271e-ecbb-421a-b0c7-f48b6fa0ebba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmScreen.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmScreen.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_alarm_screen.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_alarm_screen.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
@@ -73,29 +67,29 @@
       <file leaf-file-name="AlarmScreen.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2041" max-vertical-offset="4607">
-              <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1209" max-vertical-offset="4624">
+              <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2032#2206#0" expanded="true" />
                 <element signature="e#2195#2196#0" expanded="true" />
-                <element signature="e#2329#7082#0" expanded="true" />
-                <element signature="e#2755#3015#0" expanded="true" />
-                <element signature="e#2991#2992#0" expanded="true" />
-                <element signature="e#4852#6907#0" expanded="true" />
-                <element signature="e#6882#6883#0" expanded="true" />
-                <element signature="e#7066#7067#0" expanded="true" />
-                <element signature="e#7701#8231#0" expanded="true" />
-                <element signature="e#8224#8225#0" expanded="true" />
+                <element signature="e#2329#7083#0" expanded="true" />
+                <element signature="e#2755#3016#0" expanded="true" />
+                <element signature="e#2992#2993#0" expanded="true" />
+                <element signature="e#4853#6908#0" expanded="true" />
+                <element signature="e#6883#6884#0" expanded="true" />
+                <element signature="e#7067#7068#0" expanded="true" />
+                <element signature="e#7702#8232#0" expanded="true" />
+                <element signature="e#8225#8226#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AlarmDetailsActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AlarmDetailsActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmDetailsActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18411553" vertical-offset="0" max-vertical-offset="2635">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2635">
               <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="e#3273#3467#0" expanded="true" />
@@ -109,8 +103,10 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1105">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="39" />
-              <folding />
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <folding>
+                <element signature="e#564#582#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,17 +115,17 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_alarm_screen.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="activity_alarm_screen.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_alarm_screen.xml">
           <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="458" max-vertical-offset="1088">
-              <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1105">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -766,10 +762,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/http_test.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmDetailsActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmScreen.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_alarm_screen.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmDetailsActivity.java" />
       </list>
     </option>
   </component>
@@ -855,58 +851,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlarmClock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlarmClock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="alarmclock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlarmClock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlarmClock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -922,8 +866,8 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="test14" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="5cde82d2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="eclipse" />
     <property name="SearchEverywhereHistoryKey" value="createPendingIntent&#9;PSI&#9;JAVA://com.trigg.alarmclock.AlarmManagerHelper#createPendingIntent&#10;alarm_screen_butto&#9;PSI&#9;JAVA://com.trigg.alarmclock.R.id#alarm_screen_button" />
     <property name="options.lastSelected" value="settings.github" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -1165,7 +1109,11 @@
       <created>1413061956073</created>
       <updated>1413061956073</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="New Label">
+      <created>1413066915367</created>
+      <updated>1413066915367</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1185,7 +1133,7 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4848485" sideWeight="0.23759398" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33821872" sideWeight="0.762406" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.62006766" sideWeight="0.762406" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1250,7 +1198,8 @@
     <MESSAGE value="first_commit" />
     <MESSAGE value="Snooze Button added and connecting to server" />
     <MESSAGE value="Snooze delays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snooze delays" />
+    <MESSAGE value="New Label" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Label" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1271,7 +1220,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="969">
           <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
-          <folding />
+          <folding>
+            <element signature="e#564#582#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1298,14 +1249,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2032#2206#0" expanded="true" />
             <element signature="e#2195#2196#0" expanded="true" />
-            <element signature="e#2329#7082#0" expanded="true" />
-            <element signature="e#2755#3015#0" expanded="true" />
-            <element signature="e#2991#2992#0" expanded="true" />
-            <element signature="e#4852#6907#0" expanded="true" />
-            <element signature="e#6882#6883#0" expanded="true" />
-            <element signature="e#7066#7067#0" expanded="true" />
-            <element signature="e#7701#8231#0" expanded="true" />
-            <element signature="e#8224#8225#0" expanded="true" />
+            <element signature="e#2329#7083#0" expanded="true" />
+            <element signature="e#2755#3016#0" expanded="true" />
+            <element signature="e#2992#2993#0" expanded="true" />
+            <element signature="e#4853#6908#0" expanded="true" />
+            <element signature="e#6883#6884#0" expanded="true" />
+            <element signature="e#7067#7068#0" expanded="true" />
+            <element signature="e#7702#8232#0" expanded="true" />
+            <element signature="e#8225#8226#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1362,7 +1313,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="969">
           <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
-          <folding />
+          <folding>
+            <element signature="e#564#582#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1389,14 +1342,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2032#2206#0" expanded="true" />
             <element signature="e#2195#2196#0" expanded="true" />
-            <element signature="e#2329#7082#0" expanded="true" />
-            <element signature="e#2755#3015#0" expanded="true" />
-            <element signature="e#2991#2992#0" expanded="true" />
-            <element signature="e#4852#6907#0" expanded="true" />
-            <element signature="e#6882#6883#0" expanded="true" />
-            <element signature="e#7066#7067#0" expanded="true" />
-            <element signature="e#7701#8231#0" expanded="true" />
-            <element signature="e#8224#8225#0" expanded="true" />
+            <element signature="e#2329#7083#0" expanded="true" />
+            <element signature="e#2755#3016#0" expanded="true" />
+            <element signature="e#2992#2993#0" expanded="true" />
+            <element signature="e#4853#6908#0" expanded="true" />
+            <element signature="e#6883#6884#0" expanded="true" />
+            <element signature="e#7067#7068#0" expanded="true" />
+            <element signature="e#7702#8232#0" expanded="true" />
+            <element signature="e#8225#8226#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1426,7 +1379,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="969">
           <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
-          <folding />
+          <folding>
+            <element signature="e#564#582#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1453,14 +1408,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2032#2206#0" expanded="true" />
             <element signature="e#2195#2196#0" expanded="true" />
-            <element signature="e#2329#7082#0" expanded="true" />
-            <element signature="e#2755#3015#0" expanded="true" />
-            <element signature="e#2991#2992#0" expanded="true" />
-            <element signature="e#4852#6907#0" expanded="true" />
-            <element signature="e#6882#6883#0" expanded="true" />
-            <element signature="e#7066#7067#0" expanded="true" />
-            <element signature="e#7701#8231#0" expanded="true" />
-            <element signature="e#8224#8225#0" expanded="true" />
+            <element signature="e#2329#7083#0" expanded="true" />
+            <element signature="e#2755#3016#0" expanded="true" />
+            <element signature="e#2992#2993#0" expanded="true" />
+            <element signature="e#4853#6908#0" expanded="true" />
+            <element signature="e#6883#6884#0" expanded="true" />
+            <element signature="e#7067#7068#0" expanded="true" />
+            <element signature="e#7702#8232#0" expanded="true" />
+            <element signature="e#8225#8226#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1486,7 +1441,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="850">
           <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="e#564#582#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1688,22 +1645,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmScreen.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2041" max-vertical-offset="4607">
-          <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmDetailsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2635">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2032#2206#0" expanded="true" />
-            <element signature="e#2195#2196#0" expanded="true" />
-            <element signature="e#2329#7082#0" expanded="true" />
-            <element signature="e#2755#3015#0" expanded="true" />
-            <element signature="e#2991#2992#0" expanded="true" />
-            <element signature="e#4852#6907#0" expanded="true" />
-            <element signature="e#6882#6883#0" expanded="true" />
-            <element signature="e#7066#7067#0" expanded="true" />
-            <element signature="e#7701#8231#0" expanded="true" />
-            <element signature="e#8224#8225#0" expanded="true" />
+            <element signature="e#3273#3467#0" expanded="true" />
+            <element signature="e#3462#3463#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1711,39 +1667,42 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1105">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="39" />
-          <folding />
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="e#564#582#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1209" max-vertical-offset="4624">
+          <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2032#2206#0" expanded="true" />
+            <element signature="e#2195#2196#0" expanded="true" />
+            <element signature="e#2329#7083#0" expanded="true" />
+            <element signature="e#2755#3016#0" expanded="true" />
+            <element signature="e#2992#2993#0" expanded="true" />
+            <element signature="e#4853#6908#0" expanded="true" />
+            <element signature="e#6883#6884#0" expanded="true" />
+            <element signature="e#7067#7068#0" expanded="true" />
+            <element signature="e#7702#8232#0" expanded="true" />
+            <element signature="e#8225#8226#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_alarm_screen.xml">
       <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="458" max-vertical-offset="1071">
-          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1105">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="android-designer">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/trigg/alarmclock/AlarmDetailsActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18411553" vertical-offset="0" max-vertical-offset="2635">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#3273#3467#0" expanded="true" />
-            <element signature="e#3462#3463#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
   </component>

@@ -83,6 +83,7 @@ public class AlarmScreen extends Activity {
                      handler.postDelayed(new Runnable() {
                          @Override
                          public void run() {
+
                              mPlayer.start();
                              Log.d("player delay", "player delay");
                          }
