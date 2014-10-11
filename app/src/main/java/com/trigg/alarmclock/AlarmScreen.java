@@ -75,6 +75,16 @@ public class AlarmScreen extends Activity {
                       "Please wait, connecting to server.",
                                Toast.LENGTH_SHORT).show();
                       */
+                     mPlayer.pause();
+
+                     final Handler handler = new Handler();
+                     handler.postDelayed(new Runnable() {
+                         @Override
+                         public void run() {
+                             mPlayer.start();
+                             Log.d("player delay", "player delay");
+                         }
+                     }, 10000);
 
                       // Create Inner Thread Class
                       Thread background = new Thread(new Runnable() {
@@ -144,8 +154,9 @@ public class AlarmScreen extends Activity {
                                    "Not Got Response From Server.",
                                    Toast.LENGTH_SHORT).show();
                                }
-                               
-                               finish();
+
+
+
                           }
                       };
 
@@ -245,5 +256,6 @@ public class AlarmScreen extends Activity {
         if (mWakeLock != null && mWakeLock.isHeld()) {
             mWakeLock.release();
         }
+        mPlayer.stop();
     }
 }
