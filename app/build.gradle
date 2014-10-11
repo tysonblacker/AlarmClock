@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20"
+
+    defaultConfig {
+        applicationId "com.trigg.alarmclock"
+        minSdkVersion 14
+        targetSdkVersion 20
+
+        testApplicationId "com.trigg.alarmclock.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+
+    compile 'com.android.support:appcompat-v7:20.+'
+    compile 'com.android.support:support-v4:20.+'
+}
+
