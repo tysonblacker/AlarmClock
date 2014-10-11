@@ -26,6 +26,8 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.text.DecimalFormat;
+
 public class AlarmScreen extends Activity {
 
     public final String TAG = this.getClass().getSimpleName();
@@ -140,11 +142,13 @@ public class AlarmScreen extends Activity {
                                }
 
                                if ((null != aResponse)) {
-
+                                   DecimalFormat df = new DecimalFormat("0.00##");
                                    // ALERT MESSAGE
                                    Toast.makeText(
                                        getBaseContext(),
-                                       "Current Balance: " + balance + "\nSnooze cost: " + cost_last_snooze,
+
+                                       "Current Balance: CHF  " + df.format((balance/100)) +
+                                               "\nSnooze cost: CHF " + df.format(cost_last_snooze/100),
                                            Toast.LENGTH_LONG).show();
                                } else {
 
